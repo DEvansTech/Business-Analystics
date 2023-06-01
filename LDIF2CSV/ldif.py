@@ -1,4 +1,4 @@
-
+# Valid Change Types
 validChangetypes = ["add", "delete", "modify"]
 ignoredAttrs = []
 
